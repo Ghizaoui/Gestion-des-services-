@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/linearlayout">
+
+<!--    <TextView-->
+<!--        android:id="@+id/textView"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Remplir le formulaire" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/Nom"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        />-->
+
+<!--    <EditText-->
+<!--        android:id="@+id/editNom"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:ems="10"-->
+<!--        android:inputType="text"-->
+<!--         />-->
+
+
+<!--        <TextView-->
+<!--            android:id="@+id/Prenom"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--             />-->
+
+<!--        <EditText-->
+<!--            android:id="@+id/editPrenom"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:ems="10"-->
+<!--            android:inputType="text"-->
+<!--             />-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/Motif"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            />-->
+
+<!--        <EditText-->
+<!--            android:id="@+id/editMotif"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:ems="10"-->
+<!--            android:inputType="text"-->
+<!--            />-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/Niveau"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--             />-->
+
+<!--        <EditText-->
+<!--            android:id="@+id/editNiveau"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:ems="10"-->
+<!--            android:inputType="text"-->
+<!--            />-->
+
+
+<!--        <TextView-->
+<!--            android:id="@+id/Groupe"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            />-->
+
+<!--        <EditText-->
+<!--            android:id="@+id/editGroupe"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:ems="10"-->
+<!--            android:inputType="text"-->
+<!--            />-->
+<!--&ndash;&gt;-->
+<!--    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:orientation="horizontal"-->
+<!--        >-->
+<!--    <Button-->
+<!--        android:id="@+id/Envoyer"-->
+<!--        android:layout_width="250dp"-->
+<!--        android:layout_height="60dp"-->
+<!--        android:text="Envoyer"-->
+<!--        android:onClick="onclick"-->
+<!--        android:layout_gravity="center"-->
+<!--        />-->
+<!--    </LinearLayout>-->
+
+</LinearLayout>
